@@ -1,0 +1,31 @@
+store_id,product_id,customer_id,transaction_id,quantity,transaction_date,first_name,last_name,email,city,registration_date,product_name,category,price,store_name,location,total_amount
+5,7,101,28,3,11/15/2024,Ravi,Yadav,user101@example.com,Delhi,9/14/2023,Smartwatch,Electronics,4999,Mega Plaza,Chennai,14997
+3,1,102,11,2,8/11/2024,Nina,Joshi,user102@example.com,Mumbai,1/21/2024,Wireless Mouse,Electronics,799.99,Tech World Outlet,Bangalore,1599.98
+4,1,103,18,3,9/5/2024,Sonal,Sharma,user103@example.com,Bangalore,7/10/2023,Wireless Mouse,Electronics,799.99,Downtown Mini Store,Pune,2399.97
+3,3,104,13,4,5/4/2025,Karan,Patel,user104@example.com,Hyderabad,2/5/2024,Yoga Mat,Fitness,499,Tech World Outlet,Bangalore,1996
+3,1,105,21,5,10/2/2024,Riya,Singh,user105@example.com,Chennai,6/28/2023,Wireless Mouse,Electronics,799.99,Tech World Outlet,Bangalore,3999.95
+2,5,105,5,1,3/17/2025,Riya,Singh,user105@example.com,Chennai,6/28/2023,Notebook Set,Stationery,149,High Street Store,Delhi,149
+4,3,105,2,5,11/12/2024,Riya,Singh,user105@example.com,Chennai,6/28/2023,Yoga Mat,Fitness,499,Downtown Mini Store,Pune,2495
+3,9,107,22,4,11/16/2024,Priya,Kapoor,user107@example.com,Ahmedabad,5/12/2023,Dumbbell Set,Fitness,1999,Tech World Outlet,Bangalore,7996
+1,5,108,12,4,5/26/2025,Rahul,Verma,user108@example.com,Kolkata,8/19/2023,Notebook Set,Stationery,149,City Mall Store,Mumbai,596
+5,8,109,17,5,7/10/2024,Pooja,Mehta,user109@example.com,Delhi,4/1/2024,Desk Organizer,Accessories,399,Mega Plaza,Chennai,1995
+2,7,110,7,5,1/1/2025,Deepak,Nair,user110@example.com,Mumbai,10/14/2023,Smartwatch,Electronics,4999,High Street Store,Delhi,24995
+3,7,110,6,5,1/4/2025,Deepak,Nair,user110@example.com,Mumbai,10/14/2023,Smartwatch,Electronics,4999,Tech World Outlet,Bangalore,24995
+4,8,116,30,5,3/16/2025,Rakesh,Kapoor,user116@example.com,Kolkata,6/15/2023,Desk Organizer,Accessories,399,Downtown Mini Store,Pune,1995
+4,8,116,25,5,12/13/2024,Rakesh,Kapoor,user116@example.com,Kolkata,6/15/2023,Desk Organizer,Accessories,399,Downtown Mini Store,Pune,1995
+4,8,116,19,4,7/14/2024,Rakesh,Kapoor,user116@example.com,Kolkata,6/15/2023,Desk Organizer,Accessories,399,Downtown Mini Store,Pune,1596
+2,2,116,3,3,5/1/2025,Rakesh,Kapoor,user116@example.com,Kolkata,6/15/2023,Bluetooth Speaker,Electronics,1299.49,High Street Store,Delhi,3898.47
+2,6,118,16,4,11/29/2024,Vikram,Mehta,user118@example.com,Mumbai,4/22/2023,Water Bottle,Fitness,299,High Street Store,Delhi,1196
+4,9,119,29,2,6/3/2025,Kunal,Nair,user119@example.com,Bangalore,8/10/2023,Dumbbell Set,Fitness,1999,Downtown Mini Store,Pune,3998
+4,1,120,14,5,7/17/2024,Alka,Mishra,user120@example.com,Hyderabad,12/1/2023,Wireless Mouse,Electronics,799.99,Downtown Mini Store,Pune,3999.95
+1,8,120,4,1,11/2/2024,Alka,Mishra,user120@example.com,Hyderabad,12/1/2023,Desk Organizer,Accessories,399,City Mall Store,Mumbai,399
+5,6,121,15,5,5/19/2025,Sanjay,Patel,user121@example.com,Chennai,1/10/2024,Water Bottle,Fitness,299,Mega Plaza,Chennai,1495
+4,9,122,23,2,4/30/2025,Tina,Kapoor,user122@example.com,Pune,9/20/2023,Dumbbell Set,Fitness,1999,Downtown Mini Store,Pune,3998
+3,1,123,9,2,10/8/2024,Arjun,Yadav,user123@example.com,Ahmedabad,2/25/2024,Wireless Mouse,Electronics,799.99,Tech World Outlet,Bangalore,1599.98
+2,2,124,10,5,8/27/2024,Kavita,Sharma,user124@example.com,Kolkata,11/15/2023,Bluetooth Speaker,Electronics,1299.49,High Street Store,Delhi,6497.45
+5,1,125,24,1,7/14/2024,Tarun,Verma,user125@example.com,Delhi,4/5/2024,Wireless Mouse,Electronics,799.99,Mega Plaza,Chennai,799.99
+2,6,126,26,2,9/21/2024,Bhavna,Nair,user126@example.com,Mumbai,7/17/2023,Water Bottle,Fitness,299,High Street Store,Delhi,598
+5,7,126,8,2,6/8/2025,Bhavna,Nair,user126@example.com,Mumbai,7/17/2023,Smartwatch,Electronics,4999,Mega Plaza,Chennai,9998
+1,8,127,27,1,10/10/2024,Rohit,Mehta,user127@example.com,Bangalore,8/30/2023,Desk Organizer,Accessories,399,City Mall Store,Mumbai,399
+4,8,127,1,4,3/31/2025,Rohit,Mehta,user127@example.com,Bangalore,8/30/2023,Desk Organizer,Accessories,399,Downtown Mini Store,Pune,1596
+1,5,130,20,2,7/30/2024,Tanvi,Kapoor,user130@example.com,Pune,12/22/2023,Notebook Set,Stationery,149,City Mall Store,Mumbai,298
