@@ -1,0 +1,31 @@
+transaction_date,product_id,product_name,category,store_id,store_name,location,total_quantity_sold,total_sales_amount,number_of_transactions,average_transaction_value
+11/2/2024,8,Desk Organizer,Accessories,1,City Mall Store,Mumbai,1,399,1,399
+8/11/2024,1,Wireless Mouse,Electronics,3,Tech World Outlet,Bangalore,2,1599.98,1,1599.98
+12/13/2024,8,Desk Organizer,Accessories,4,Downtown Mini Store,Pune,5,1995,1,1995
+5/4/2025,3,Yoga Mat,Fitness,3,Tech World Outlet,Bangalore,4,1996,1,1996
+5/26/2025,5,Notebook Set,Stationery,1,City Mall Store,Mumbai,4,596,1,596
+7/14/2024,1,Wireless Mouse,Electronics,5,Mega Plaza,Chennai,1,799.99,1,799.99
+7/17/2024,1,Wireless Mouse,Electronics,4,Downtown Mini Store,Pune,5,3999.95,1,3999.95
+9/5/2024,1,Wireless Mouse,Electronics,4,Downtown Mini Store,Pune,3,2399.97,1,2399.97
+6/3/2025,9,Dumbbell Set,Fitness,4,Downtown Mini Store,Pune,2,3998,1,3998
+8/27/2024,2,Bluetooth Speaker,Electronics,2,High Street Store,Delhi,5,6497.45,1,6497.45
+1/1/2025,7,Smartwatch,Electronics,2,High Street Store,Delhi,5,24995,1,24995
+5/19/2025,6,Water Bottle,Fitness,5,Mega Plaza,Chennai,5,1495,1,1495
+11/12/2024,3,Yoga Mat,Fitness,4,Downtown Mini Store,Pune,5,2495,1,2495
+1/4/2025,7,Smartwatch,Electronics,3,Tech World Outlet,Bangalore,5,24995,1,24995
+3/16/2025,8,Desk Organizer,Accessories,4,Downtown Mini Store,Pune,5,1995,1,1995
+11/15/2024,7,Smartwatch,Electronics,5,Mega Plaza,Chennai,3,14997,1,14997
+7/30/2024,5,Notebook Set,Stationery,1,City Mall Store,Mumbai,2,298,1,298
+4/30/2025,9,Dumbbell Set,Fitness,4,Downtown Mini Store,Pune,2,3998,1,3998
+11/29/2024,6,Water Bottle,Fitness,2,High Street Store,Delhi,4,1196,1,1196
+9/21/2024,6,Water Bottle,Fitness,2,High Street Store,Delhi,2,598,1,598
+6/8/2025,7,Smartwatch,Electronics,5,Mega Plaza,Chennai,2,9998,1,9998
+11/16/2024,9,Dumbbell Set,Fitness,3,Tech World Outlet,Bangalore,4,7996,1,7996
+10/2/2024,1,Wireless Mouse,Electronics,3,Tech World Outlet,Bangalore,5,3999.95,1,3999.95
+10/8/2024,1,Wireless Mouse,Electronics,3,Tech World Outlet,Bangalore,2,1599.98,1,1599.98
+5/1/2025,2,Bluetooth Speaker,Electronics,2,High Street Store,Delhi,3,3898.47,1,3898.47
+7/14/2024,8,Desk Organizer,Accessories,4,Downtown Mini Store,Pune,4,1596,1,1596
+10/10/2024,8,Desk Organizer,Accessories,1,City Mall Store,Mumbai,1,399,1,399
+3/17/2025,5,Notebook Set,Stationery,2,High Street Store,Delhi,1,149,1,149
+7/10/2024,8,Desk Organizer,Accessories,5,Mega Plaza,Chennai,5,1995,1,1995
+3/31/2025,8,Desk Organizer,Accessories,4,Downtown Mini Store,Pune,4,1596,1,1596
